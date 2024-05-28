@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "ms-dotnettools.vscode-dotnet-sdk",
+    "ms-dotnettools.vscode-dotnet-pack",
+    "ms-dotnettools.vscode-dotnet-runtime",
+    "ms-dotnettools.dotnet-maui",
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.csdevkit",
+    "ms-dotnettools.vscodeintellicode-csharp",
+    "visualstudiotoolsforunity.vstuc",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "firefox-devtools.vscode-firefox-debug",
+    "ms-dotnettools.blazorwasm-companion",
+    "ms-vscode.notepadplusplus-keybindings",
+    "ms-vscode-remote.remote-wsl",
+    "DavidAnson.vscode-markdownlint",
+    "redhat.vscode-xml",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "zhuangtongfa.material-theme",
+    "ms-azuretools.vscode-docker",
+    "EditorConfig.EditorConfig"
+  ],
+  "unwantedRecommendations": []
+}
