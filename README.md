@@ -28,3 +28,9 @@ dotnet --version
 3) CTRL + SHIFT + P: NuGet: Install the necessary packages.
 
 4) Check the example code in the Program.cs file.
+
+5) Run the project with the terminal command:
+
+```bash
+dotnet run
+```
