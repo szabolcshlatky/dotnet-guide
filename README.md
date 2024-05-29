@@ -21,7 +21,7 @@ dotnet --version
 
 ## II. Create a new project in VSCode
 
-1) CTRL + SHIFT + P: .NET: New Project then ➡️ Select the template: Console Application
+1) CTRL + SHIFT + P: .NET: New Project then ➡️ Selected the template: Console Application
 
 2) Check the solution explorer for the project and the terminal.
 
